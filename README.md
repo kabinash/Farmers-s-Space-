@@ -1,6 +1,6 @@
-## AgroAcres
+## Farmer's Space
 
-AgroAcres is an app-based platform which promotes Smart Agriculture among Indian Farmers. It is a self-contained digital environment for Farmers to learn more about Farming, cultivate their crops in a better manner and even get fair prices for it once harvested. It tries to help them at every step of the Journey they have to undergo everytime they are planting a Crop.
+Farmer's Space is an app-based platform which promotes Smart Agriculture among Indian Farmers. It is a self-contained digital environment for Farmers to learn more about Farming, cultivate their crops in a better manner and even get fair prices for it once harvested. It tries to help them at every step of the Journey they have to undergo everytime they are planting a Crop.
 
 ## Problem Statement
 
@@ -15,12 +15,10 @@ lack of awareness among Farmers about Modern Agricultural Practices.
 
 ## Features
 
-AgroAcres helps Farmers in getting accquainted with Modern Agricultural Practices. It strives to assist the Farmer thorughout the entire crop cycle, that is from sowing of the seed to the very selling of the Crop.
+Farmer's Space helps Farmers in getting accquainted with Modern Agricultural Practices. It strives to assist the Farmer thorughout the entire crop cycle, that is from sowing of the seed to the very selling of the Crop.
 
 <div style="flex-direction: row;">
-  <img src="https://github.com/amlannandy/AgroAcres/blob/master/assets/screenshots/login.jpg" width="150px" style="margin-right: 10px;" alt="">
-  <img src="https://github.com/amlannandy/AgroAcres/blob/master/assets/screenshots/otp.jpg" width="150px" style="margin-right: 10px;" alt="">
-  <img src="https://github.com/amlannandy/AgroAcres/blob/master/assets/screenshots/menu.jpg" width="150px" alt="">
+  <img src="https://drive.google.com/file/d/1IgQs3FS9etiv_0Ad_yajtRD6IfQ8-NqO/view?usp=sharing" width="150px" alt="">
 </div>
 
 ## E-Commerce - Sell your Crops and Agricultural Products at a Fair Price
@@ -31,7 +29,7 @@ Not sure if you're buying or selling at a fair price? Check out prices from your
 <div style="flex-direction: row;">
   <img src="https://github.com/amlannandy/AgroAcres/blob/master/assets/screenshots/shop.jpg" width="150px" style="margin-right: 10px;" alt="">
   <img src="https://github.com/amlannandy/AgroAcres/blob/master/assets/screenshots/Add.jpg" width="150px" style="margin-right: 10px;" alt="">
-  <img src="https://github.com/amlannandy/AgroAcres/blob/master/assets/screenshots/mandi.jpg" width="150px" alt="">
+
 </div>
 
 ## Learn more about Farming with our Multilingual Chatbot
@@ -41,18 +39,10 @@ Want to know more about a Particular Crop or Farming Technique? Ask our Chatbot 
 <div style="flex-direction: row;">
   <img src="https://github.com/amlannandy/AgroAcres/blob/master/assets/screenshots/Language.jpg" width="150px" style="margin-right: 10px;" alt="">
   <img src="https://github.com/amlannandy/AgroAcres/blob/master/assets/screenshots/chatbot.jpg" width="150px" style="margin-right: 10px;" alt="">
-  <img src="https://github.com/amlannandy/AgroAcres/blob/master/assets/screenshots/Hindi.jpg" width="150px" alt="">
+
 </div>
 
-## Helping you at every Step
 
-Want us to guide you through every single stage of farming? Tell us what crop you are sowing and when, and a timeline of events starting from sowing of crops to harvest will be generated to guide you throughoout the entire process, helping you at every step.
-
-<div style="flex-direction: row;">
-  <img src="https://github.com/amlannandy/AgroAcres/blob/master/assets/screenshots/calender1.jpg" width="150px" style="margin-right: 10px;" alt="">
-  <img src="https://github.com/amlannandy/AgroAcres/blob/master/assets/screenshots/calender.jpg" width="150px" style="margin-right: 10px;" alt="">
-  <img src="https://github.com/amlannandy/AgroAcres/blob/master/assets/screenshots/Calender2.jpg" width="150px" alt="">
-</div>
 
 ## Multilingual Support
 
